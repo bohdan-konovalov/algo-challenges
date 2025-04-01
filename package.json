@@ -1,8 +1,10 @@
 {
   "name": "algo-challenges",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:amazon": "jest amazon"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",

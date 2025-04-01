@@ -4,7 +4,7 @@ Data analysts at Amazon are stydying the trends in movies and shows popular on P
 
 They have identified the best critic-rated and the best audience-rated web series, represented by integer IDs _series1_, and _series2_. They also define the _watch score_ of a contiguous period of some days as the number of distinct series watched by a viewer during that period.
 
-Given an array of _watch_history_, of size _n_, that represents the web series watched by a viewer over a period of _n_ days, and two integers, _series1_ and _series2_, report the minimum _watch score_ of a contiguous period of days in which both _series1_ and _series2_ have been viewed at least once. If _series1_ and _series2_ are the same value, one occurence during the period is sufficient.
+Given an array of _watch_history_, of size _n_, that represents the web series watched by a viewer over a period of _n_ days, and two integers, _series1_ and _series2_, report the minimum _watch score_ of a contiguous period of days in which both _series1_ and _series2_ have been viewed at least once. If _series1_ and _series2_ are the same value, one occurrence during the period is sufficient.
 
 #### Example
 
@@ -44,7 +44,7 @@ _getMinScore_ has the following parameters:
 - _1 ≤ n ≤ 10<sup>5</sup>_
 - _1 ≤ watch_history[i] ≤ 10<sup>9</sup>,_ where _0 ≤ i < n_
 - _1 ≤ series1, series2 ≤ 10<sup>9</sup>,_ _series1_ and _series2_ are not necessarily distinct.
-- There will be at least one occurence of both _series1_ and _series2_ in _watch_history_.
+- There will be at least one occurrence of both _series1_ and _series2_ in _watch_history_.
 
 #### Samples
 
