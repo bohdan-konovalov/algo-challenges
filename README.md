@@ -1,5 +1,7 @@
 # 🧠 Algo Challenges
 
+![Banner](./banner.jpg)
+
 Welcome to the **Algo Challenges** repository — a collection of hand-picked algorithmic coding problems inspired by **real company interviews I've personally taken part in** (Amazon, Bolt, and more).
 
 This repo is built to simulate **real technical interviews**, promote focused problem-solving, and help you improve your data structures and algorithms skills through disciplined practice.
