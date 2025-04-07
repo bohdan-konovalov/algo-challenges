@@ -147,4 +147,4 @@ PRs are welcome — just follow the folder structure and testing style.
 
 ---
 
-Happy coding, and treat every challenge like it’s your **final interview round** 💪
+Happy hacking, and treat every challenge like it’s your **final interview round** 💪
