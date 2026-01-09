@@ -70,7 +70,7 @@ function suitableLocations(center: number[], d: number): number;
 - -10⁹ ≤ center[i] ≤ 10⁹
 - 0 ≤ d ≤ 10¹⁵
 
-## More examples
+## Samples
 
 **Input format:** The first line contains an integer, `n`, the number of elements in `center`. Each line `i` of the `n` subsequent lines (where _0 ≤ i < n_) contains an integer, `center[i]`. The last line contains one integer `d`, the maximum allowed total required travel distance.
 
